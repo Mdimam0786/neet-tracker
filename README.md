@@ -4,7 +4,8 @@ A free, beautiful, **class-wise and chapter-wise study tracker for NEET aspirant
 
 **Made by [Md Imamuddin](https://github.com/Mdimam0786)**
 
-🔗 **Live demo:** https://Mdimam0786.github.io/neet-tracker/
+🔗 **Live demo:**  https://neet-tracker-zeta.vercel.app/
+
 
 ---
 
